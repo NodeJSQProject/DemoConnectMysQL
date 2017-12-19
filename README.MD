@@ -3,5 +3,5 @@
 # B1: install mysql in your marchine
 # B2: create a database with name: sampleDB, create a table with name: myTable and add your data into this table
 # b4: cd to Source2 project and run: npm install
-# B5: run: Node index.js and open your browser. The result will show in this
+# B5: run: Node index.js and open your browser. The result will show in this: https://github.com/NodeJSQProject/DemoConnectMysQL/blob/master/images/221.png?raw=true
 # Done!
